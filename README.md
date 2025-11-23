@@ -6,7 +6,7 @@
 
 ##  Proje Amacı
 - Yol yardımı talep eden vatandaşlara bu hizmeti en iyi şekilde sunabilmek. 
-- Talep halinde istenilen hizmeti en kolay ve hızlı şekilde kullanıcıya özelleştirebileceği şekilde sunabilmek.
+- Talep halinde istenilen hizmeti en kolay ve hızlı şekilde kullanıcıya özelleştirebileceği şekli ile sunabilmek.
 
 ---
 
