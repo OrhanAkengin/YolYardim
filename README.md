@@ -31,7 +31,7 @@
    Potansiyel riskler ve önlemler belirlendi.  
 
 7. **Veri Toplama**  
-   Vatandaşlar ile anket çalışmaları yapılarak ihtiyaç ve beklentiler analiz edildi. Ayrıca benzer platformlar incelenerek benchmarking yapıldı; “YolYardım” bu platformlarla kıyaslanarak güçlü ve geliştirilmesi gereken yönler belirlendi.  
+   Vatandaşlar ile anket çalışmaları yapılarak ihtiyaç ve beklentiler analiz edildi. Ayrıca benzer platformlar incelenerek benchmarking yapıldı; “YolYardım” bu uygulamalarla kıyaslanarak güçlü ve geliştirilmesi gereken yönler belirlendi.  
 
 8. **Gereksinim Beyanı**  
    Sistem gereksinimleri tanımlandı.  
