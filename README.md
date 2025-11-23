@@ -1,4 +1,53 @@
-# YolYardim
- YolYardım uygulaması aracınız ile alakalı çekici, yakıt ikmali, lastik değişimi gibi bir çok hizmet bulabileceğiniz bir mobil uygulamadır.
-#Proje Amacı
+#  YolYardım
 
+**YolYardım** aracınız ile alakalı çekici, yakıt ikmali, lastik değişimi gibi bir çok hizmet bulabileceğiniz bir mobil uygulamadır.  
+
+---
+
+##  Proje Amacı
+- Yol yardımı talep eden vatandaşlara bu hizmeti en iyi şekilde sunabilmek. 
+- Talep halinde istenilen hizmeti en kolay ve hızlı şekilde kullanıcıya özelleştirebileceği şekilde sunabilmek.
+
+---
+
+##  Proje Basamakları
+
+1. **Proje Beyanı**  
+   Projenin amacı, kapsamı ve hedefleri belirlendi.  
+
+2. **Fizibilite Çalışması**  
+   Projenin uygulanabilirliği ve kaynak analizleri yapıldı.  
+
+3. **İş Kırılımı (WBS)**  
+   Proje süreci alt parçalara ayrıldı.  
+
+4. **Gantt Şeması**  
+   Zaman planlaması oluşturuldu.  
+
+5. **PERT ve 3 Nokta Tahmini**  
+   Görev süre tahminleri yapıldı.  
+
+6. **Risk Analizi**  
+   Potansiyel riskler ve önlemler belirlendi.  
+
+7. **Veri Toplama**  
+   Vatandaşlar ile anket çalışmaları yapılarak ihtiyaç ve beklentiler analiz edildi. Ayrıca benzer platformlar incelenerek benchmarking yapıldı; “YolYardım” bu platformlarla kıyaslanarak güçlü ve geliştirilmesi gereken yönler belirlendi.  
+
+8. **Gereksinim Beyanı**  
+   Sistem gereksinimleri tanımlandı.  
+
+9. **Bağlam – Ebeveyn – Çocuk Diyagramları**  
+   Sistem işleyişi modellendi.  
+
+10. **Veri Sözlüğü ve Veri Deposu**  
+    Veritabanı unsurları tanımlandı.  
+
+11. **Yapısal Analiz**  
+    Yapısal dil, karar tablosu ve karar ağacı oluşturuldu.  
+
+12. **ER Diyagramları**  
+    Kavramsal, mantıksal ve fiziksel ER modelleri geliştirildi.  
+
+13. **Arayüz Tasarımları**  
+    Kullanıcılar için web arayüzleri tasarlandı. Ayrıca mobil arayüz geliştirilerek kullanıcıların platforma daha kolay erişimi sağlandı.  
+    
